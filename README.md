@@ -1,3 +1,18 @@
+<!-- BADGES:START -->
+
+<div align="left">
+[![](https://img.shields.io/github/license/Olagoldstx/template?style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/template)
+[![](https://img.shields.io/github/stars/Olagoldstx/template?style=for-the-badge&labelColor=0f172a&logo=github)](https://github.com/Olagoldstx/template)
+[![](https://img.shields.io/github/last-commit/Olagoldstx/template?style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/template)
+[![](https://img.shields.io/github/issues/Olagoldstx/template?style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/template)
+[![](https://img.shields.io/github/issues-pr/Olagoldstx/template?style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/template)
+[![](https://img.shields.io/github/repo-size/Olagoldstx/template?style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/template)
+[![](https://img.shields.io/github/languages/top/Olagoldstx/template?style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/template)
+[![](https://img.shields.io/github/actions/workflow/status/Olagoldstx/template/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/template)
+</div>
+
+<!-- BADGES:END -->
+
 <p align="center">
   <img src="./assets/banner.png" width="100%" alt="SecureTheCloud Banner"/>
 </p>
